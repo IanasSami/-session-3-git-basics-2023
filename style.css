@@ -1,0 +1,57 @@
+/*HTML reset*/
+
+body {
+  font-family: "Segoe UI", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: black
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/*  Nav  */
+nav{
+  padding-top: 10%;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+
+}
+
+nav ul li {
+  display: inline;
+  margin: 25px;
+  padding: 15px;
+
+}
+
+header {
+  text-align: center;
+  background: url("images2.jpg") top/cover no-repeat;
+  height: 85vh;
+  width: 100%;
+  margin: 0;
+  
+  
+}
+
+
+/*  Main */
+
+
+
+
+
+
+
+
+/*Footer section*/
+
