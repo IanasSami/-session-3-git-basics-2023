@@ -91,7 +91,7 @@ main{
 
 footer {
   background: url("header.jpg") top/cover no-repeat; 
-  color: #fbfbfd; 
+  color: #black; 
   overflow: hidden;
   padding: 10px 0;
   text-align: center;
