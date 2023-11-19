@@ -18,6 +18,7 @@ nav{
   padding-top: 10%;
 }
 
+
 nav ul {
   list-style: none;
   padding: 0;
@@ -30,6 +31,7 @@ nav ul li {
   display: inline;
   margin: 25px;
   padding: 15px;
+  
 
 }
 
@@ -42,10 +44,42 @@ header {
   
   
 }
+.bara{
+  text-align: left;
+  flex-direction: left;
+}
 
 
 /*  Main */
 
+main{
+  background: grey;
+  margin: -5px;
+
+}
+.column img {
+  border-radius: 10px
+}
+
+.principal {
+  background: rgb(226, 229, 228);
+  
+  width: 100%;
+  float: left;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.center {
+  background: red;
+  
+  width: 100%;
+  
+  display: flex;
+  padding: 10px;
+  
+}
 
 
 
@@ -55,3 +89,24 @@ header {
 
 /*Footer section*/
 
+footer {
+  background: url("header.jpg") top/cover no-repeat; 
+  color: #fbfbfd; 
+  overflow: hidden;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.row {
+  overflow: hidden;
+}
+
+.column {
+  width: 50%;
+  float: left;
+}
+
+.center {
+  text-align: center;
+}
